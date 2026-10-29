@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>Teoría de Autómatas y Computabilidad Avanzada</strong><br>
-  Universidad Nacional de Loja · Ingeniería en Computación
+  Universidad Nacional de Loja · Ingeniería en Ciencias de la  Computación
 </p>
 
 <p align="center">

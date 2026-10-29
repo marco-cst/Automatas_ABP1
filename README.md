@@ -1,5 +1,5 @@
 # Automatas_ABP1
-# 🥤 Máquina Dispensadora — Modelado mediante Autómatas Finitos
+# 🥤 Máquina Dispensadora — Modelado mediante Autómatas Finitos (AFND-AFD)
 
 <p align="center">
   <strong>Teoría de Autómatas y Computabilidad Avanzada</strong><br>

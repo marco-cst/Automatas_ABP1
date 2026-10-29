@@ -1,0 +1,3 @@
+conjunto,archivo,sesiones,repeticiones,rondas,tiempo_afnd_s,tiempo_afd_s,tiempo_afnd_us_sesion,tiempo_afd_us_sesion,aceleracion_afd,ahorro_porcentual,estados_afnd,estados_afd
+Validación,sesiones_datos.csv,300,200,5,2.307158,0.094252,38.453,1.571,24.48,95.91,31,14
+Prueba,sesiones_prueba.csv,50,200,5,0.327239,0.014461,32.724,1.446,22.63,95.58,31,14

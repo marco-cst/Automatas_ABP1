@@ -1,0 +1,51 @@
+id_sesion,eventos,prediccion,estado_final,patrones_detectados,etiqueta
+T001,MSPDQVVD,normal,q0,ninguno,normal
+T002,MSCFAFQF,normal,q_F,P4:MSCF,normal
+T003,DDXMSPFPSCXCPSX,anomala,q_F,P3:MSPF,anomala
+T004,VMSPFQV,anomala,q_F,P3:MSPF,anomala
+T005,AAQMSPFX,anomala,q_F,P3:MSPF,anomala
+T006,AAAMSAFDV,anomala,q_F,P2:MSAF,normal
+T007,QVVMSCFXVVMSX,normal,q_F,P4:MSCF,normal
+T008,MSAFQAAXDXQVQXXVFAF,anomala,q_F,P2:MSAF,normal
+T009,VVXMSCFDX,normal,q_F,"P4:MSCF, P6:XMSC",normal
+T010,DMSIFPDVIVVASDSIPSC,anomala,q_F,P1:MSIF,normal
+T011,VDQMSPDXXQVVDQAM,normal,q_M,ninguno,normal
+T012,MSCFI,normal,q_F,P4:MSCF,normal
+T013,QDMSCFVMXI,normal,q_F,P4:MSCF,normal
+T014,DXMSCFXXMQQMCC,normal,q_F,"P4:MSCF, P6:XMSC",normal
+T015,XQMSCFVXFFAIFAFQM,normal,q_F,"P4:MSCF, P5:QMSC",normal
+T016,MSIFXF,anomala,q_F,P1:MSIF,normal
+T017,VADMSCFAXQMAAVFAXV,normal,q_F,P4:MSCF,normal
+T018,MSCFQPPDVFQ,normal,q_F,P4:MSCF,normal
+T019,VAAMSCFXQM,normal,q_F,P4:MSCF,normal
+T020,VXDMSCFVQIXPSPQFFSV,normal,q_F,P4:MSCF,normal
+T021,ADXMSPFDQXAQXVFFX,anomala,q_F,P3:MSPF,anomala
+T022,MSCFAASQQACCXSACPDDA,normal,q_F,P4:MSCF,normal
+T023,XXVMSPFCCQIPPC,anomala,q_F,P3:MSPF,anomala
+T024,VDXMSPDAV,normal,q0,ninguno,normal
+T025,MSPFVDVCV,anomala,q_F,P3:MSPF,anomala
+T026,MSIFDAAMAXPXPFDA,anomala,q_F,P1:MSIF,normal
+T027,AMSCFVVFQDDCPFFDSIF,normal,q_F,P4:MSCF,normal
+T028,VVDMSCFAQPQSS,normal,q_F,P4:MSCF,normal
+T029,QVMSCFAPQ,normal,q_F,P4:MSCF,normal
+T030,ADMSCFAQDXPVX,normal,q_F,P4:MSCF,normal
+T031,XMSPFSIMIQIMXIS,anomala,q_F,P3:MSPF,anomala
+T032,MSAFAFSPIQXFFFQCPXXI,anomala,q_F,P2:MSAF,normal
+T033,VQAMSPFVI,anomala,q_F,P3:MSPF,anomala
+T034,MSIFVPVFXFIPIMMDI,anomala,q_F,P1:MSIF,normal
+T035,XMSIFQ,anomala,q_F,P1:MSIF,normal
+T036,DAMSCFXQ,normal,q_F,P4:MSCF,normal
+T037,MSPDDPPFVCSSQCCCISD,normal,q0,ninguno,normal
+T038,MSCFQCASQDDSXQCFVFI,normal,q_F,P4:MSCF,normal
+T039,MSCFAAAAXIQSCPVVMPPX,normal,q_F,P4:MSCF,normal
+T040,DMSIF,anomala,q_F,P1:MSIF,normal
+T041,XVXMSCFQXX,normal,q_F,"P4:MSCF, P6:XMSC",normal
+T042,MSAFQ,anomala,q_F,P2:MSAF,normal
+T043,DQXMSCFXAXQDVDXV,normal,q_F,"P4:MSCF, P6:XMSC",normal
+T044,MSPFQAVIAFFQXA,anomala,q_F,P3:MSPF,anomala
+T045,DMSCFVQQ,normal,q_F,P4:MSCF,normal
+T046,MSCFXXXDDFPPVI,normal,q_F,P4:MSCF,normal
+T047,VDMSCFVMS,normal,q_F,P4:MSCF,normal
+T048,MSPDAXQQVIV,normal,q0,ninguno,normal
+T049,QQVMSCFXI,normal,q_F,P4:MSCF,normal
+T050,DDMSCFAQ,normal,q_F,P4:MSCF,normal

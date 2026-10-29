@@ -1,0 +1,301 @@
+id_sesion,eventos,prediccion,estado_final,patrones_detectados,etiqueta
+S001,VVQMSCFXDPXCXXDAPPMX,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S002,MSPDQSFVDSDDXDVFQDD,normal,q0,ninguno,normal
+S003,QVMSPFVQFMQQIACVXAD,anomala,q_F,P3:MSPF,anomala
+S004,VQMSPD,normal,q0,ninguno,normal
+S005,QVMSPFAQAQ,anomala,q_F,P3:MSPF,anomala
+S006,XVMSIFXXPMIIDSCSQQI,anomala,q_F,P1:MSIF,normal
+S007,MSCFQFIXXCMQIMAPFPX,normal,q_F,P4:MSCF,normal
+S008,AMSIFC,anomala,q_F,P1:MSIF,normal
+S009,DMSPFXICXCSQSQVCPFDM,anomala,q_F,P3:MSPF,anomala
+S010,DMSCFMCFQS,normal,q_F,P4:MSCF,normal
+S011,XMSPFXDVSAC,anomala,q_F,P3:MSPF,anomala
+S012,VMSCFQSFCIVI,normal,q_F,P4:MSCF,normal
+S013,AQXMSCFIMDIXVD,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S014,AAXMSAFAVQXFXPPQ,anomala,q_F,P2:MSAF,normal
+S015,MSCFAQQVI,normal,q_F,P4:MSCF,normal
+S016,DQMSAFVFQFQMDDIFPXI,anomala,q_F,P2:MSAF,normal
+S017,DDMSIFVADMQV,anomala,q_F,P1:MSIF,normal
+S018,XVMSPFVVMXXS,anomala,q_F,P3:MSPF,anomala
+S019,MSCFDAVFAFSMQXVFSM,normal,q_F,P4:MSCF,normal
+S020,XMSCFVDAPDCADPFPAMA,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S021,ADMSPDQAVISICCPVM,normal,q_M,ninguno,normal
+S022,DMSPFVV,anomala,q_F,P3:MSPF,anomala
+S023,DXVMSCFDAXDFAXCI,normal,q_F,P4:MSCF,normal
+S024,AAAMSCFDSIFAXFC,normal,q_F,P4:MSCF,normal
+S025,VAAMSCFFDDQXVQF,normal,q_F,P4:MSCF,normal
+S026,XMSCFDQ,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S027,DQMSCFQXD,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S028,MSCFVX,normal,q_F,P4:MSCF,normal
+S029,VMSCF,normal,q_F,P4:MSCF,normal
+S030,VMSPFXAV,anomala,q_F,P3:MSPF,anomala
+S031,VAMSCFMIVDXIDQFFS,normal,q_F,P4:MSCF,normal
+S032,XMSCFAX,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S033,XAMSAFXD,anomala,q_F,P2:MSAF,normal
+S034,MSPFQDVFMPQIDPAAFD,anomala,q_F,P3:MSPF,anomala
+S035,MSPDDVADDQF,normal,q0,ninguno,normal
+S036,DMSAFQICIDIPX,anomala,q_F,P2:MSAF,normal
+S037,MSCFDAPSAQAAXVISFSI,normal,q_F,P4:MSCF,normal
+S038,DAMSCFQDIIISVS,normal,q_F,P4:MSCF,normal
+S039,VMSIFDIDPDIVS,anomala,q_F,P1:MSIF,normal
+S040,QMSPFQXPMIXX,anomala,q_F,P3:MSPF,anomala
+S041,XXAMSPDDDACMXIAVVFAV,normal,q0,ninguno,normal
+S042,XVMSIF,anomala,q_F,P1:MSIF,normal
+S043,AMSCFDDQDFIDDXDVSQSI,normal,q_F,P4:MSCF,normal
+S044,MSPDX,normal,q_X,ninguno,normal
+S045,QXVMSCFQDVQSIQDQ,normal,q_F,P4:MSCF,normal
+S046,VMSCFVXXM,normal,q_F,P4:MSCF,normal
+S047,DXMSCFQDQPPA,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S048,QAQMSPDVSQDDXQIDX,normal,q_X,ninguno,normal
+S049,QVAMSCFDXD,normal,q_F,P4:MSCF,normal
+S050,XVMSCFDDIQFPXA,normal,q_F,P4:MSCF,normal
+S051,QQMSPF,anomala,q_F,P3:MSPF,anomala
+S052,MSCFDXVPCDAQAXS,normal,q_F,P4:MSCF,normal
+S053,QMSPFDXXQDS,anomala,q_F,P3:MSPF,anomala
+S054,XVXMSPDXVD,normal,q0,ninguno,normal
+S055,DDMSCFVDAMFS,normal,q_F,P4:MSCF,normal
+S056,XMSCFDQPIXIIDDQAMAP,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S057,DQVMSIFAFSFXCAFFQQ,anomala,q_F,P1:MSIF,normal
+S058,MSCFADC,normal,q_F,P4:MSCF,normal
+S059,XADMSCF,normal,q_F,P4:MSCF,normal
+S060,XMSCFQQA,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S061,ADMSCFDAXDVSQQI,normal,q_F,P4:MSCF,normal
+S062,XXDMSCFQXX,normal,q_F,P4:MSCF,normal
+S063,MSPFQQFMSPFDQ,anomala,q_F,P3:MSPF,anomala
+S064,AVDMSPDV,normal,q0,ninguno,normal
+S065,QXDMSCFAVVACDIQFI,normal,q_F,P4:MSCF,normal
+S066,DMSCFXVDDCDIIXQFI,normal,q_F,P4:MSCF,normal
+S067,MSCFQVA,normal,q_F,P4:MSCF,normal
+S068,VXMSPDIAXDCMVI,normal,q0,ninguno,normal
+S069,VMSCFACPPIMIA,normal,q_F,P4:MSCF,normal
+S070,XDMSCFMSQQFP,normal,q_F,P4:MSCF,normal
+S071,MSPFXQAVACQQID,anomala,q_F,P3:MSPF,anomala
+S072,XVMSCFXAACDSQVQ,normal,q_F,P4:MSCF,normal
+S073,DXMSCFXXIAVVSPMFA,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S074,AVDMSCFADFIXCS,normal,q_F,P4:MSCF,normal
+S075,QMSCFQCPQCXFISVAV,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S076,MSPFCSMDS,anomala,q_F,P3:MSPF,anomala
+S077,AMSCFV,normal,q_F,P4:MSCF,normal
+S078,MSCFVVPIMVQXM,normal,q_F,P4:MSCF,normal
+S079,AMSCFXV,normal,q_F,P4:MSCF,normal
+S080,AXXMSIFDQAD,anomala,q_F,P1:MSIF,normal
+S081,AMSCFQ,normal,q_F,P4:MSCF,normal
+S082,MSIFAFFQVAAVVCDMVMI,anomala,q_F,P1:MSIF,normal
+S083,AAQMSCFAADVVQQPSFASF,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S084,DXQMSCFQQQMQA,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S085,MSPDXQV,normal,q0,ninguno,normal
+S086,XDMSIFDXIDICVDPSMQAS,anomala,q_F,P1:MSIF,normal
+S087,AQMSPF,anomala,q_F,P3:MSPF,anomala
+S088,AAAMSCFDQIX,normal,q_F,P4:MSCF,normal
+S089,QXMSAFVD,anomala,q_F,P2:MSAF,normal
+S090,MSIFPSFFACMCICD,anomala,q_F,P1:MSIF,normal
+S091,VMSCF,normal,q_F,P4:MSCF,normal
+S092,DADMSIFQVA,anomala,q_F,P1:MSIF,normal
+S093,ADMSPDXV,normal,q0,ninguno,normal
+S094,MSCFSISMIICVXAF,normal,q_F,P4:MSCF,normal
+S095,DMSPFAPQ,anomala,q_F,P3:MSPF,anomala
+S096,MSIFXDXCDFDFQF,anomala,q_F,P1:MSIF,normal
+S097,VAMSPDQXDVSF,normal,q0,ninguno,normal
+S098,QQVMSCFVXPQVPPS,normal,q_F,P4:MSCF,normal
+S099,VMSCFMISMDMQVM,normal,q_F,P4:MSCF,normal
+S100,AAQMSCFVDVAAQIIDXC,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S101,XXQMSAFXXDDPFADPXAD,anomala,q_F,P2:MSAF,normal
+S102,XMSAFXQXP,anomala,q_F,P2:MSAF,normal
+S103,DAAMSIFQ,anomala,q_F,P1:MSIF,normal
+S104,DQAMSCFQQCVCVP,normal,q_F,P4:MSCF,normal
+S105,QMSIFDQMCIQQFMD,anomala,q_F,P1:MSIF,normal
+S106,VAMSAF,anomala,q_F,P2:MSAF,normal
+S107,XQMSPFVVCASSMMVI,anomala,q_F,P3:MSPF,anomala
+S108,MSPFAV,anomala,q_F,P3:MSPF,anomala
+S109,DMSPDFCQSADIASP,normal,q0,ninguno,normal
+S110,QMSAFDQDPP,anomala,q_F,P2:MSAF,normal
+S111,AMSCFQXQACPVPVIV,normal,q_F,P4:MSCF,normal
+S112,DMSIFSAC,anomala,q_F,P1:MSIF,normal
+S113,AQVMSCFXQV,normal,q_F,P4:MSCF,normal
+S114,VVMSPD,normal,q0,ninguno,normal
+S115,VDDMSCFVXISM,normal,q_F,P4:MSCF,normal
+S116,XQVMSCFXXSFQDAVVADPX,normal,q_F,P4:MSCF,normal
+S117,QMSCFXAQSDFMQQVPCVP,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S118,MSCFDXDCIXCVCSQQVDCM,normal,q_F,P4:MSCF,normal
+S119,VDMSCFVVX,normal,q_F,P4:MSCF,normal
+S120,MSPDXCIPFPAIXQSIC,normal,q0,ninguno,normal
+S121,QXMSCFDD,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S122,QVDMSPFQAQVFVFDMP,anomala,q_F,P3:MSPF,anomala
+S123,QQMSPDADVACA,normal,q0,ninguno,normal
+S124,ADMSCFXX,normal,q_F,P4:MSCF,normal
+S125,XMSCFAQAXMVSQCC,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S126,MSPFDCCAVDMPCFC,anomala,q_F,P3:MSPF,anomala
+S127,XMSPFMAPFPV,anomala,q_F,P3:MSPF,anomala
+S128,VAQMSCFVXVV,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S129,XQQMSIFPPIIMQMCPS,anomala,q_F,P1:MSIF,normal
+S130,VMSCFXQA,normal,q_F,P4:MSCF,normal
+S131,AMSCFVIFAPFFDV,normal,q_F,P4:MSCF,normal
+S132,XDMSPFAQV,anomala,q_F,P3:MSPF,anomala
+S133,VMSCFAXXPMIMMCSCPIVI,normal,q_F,P4:MSCF,normal
+S134,VQMSCFPQM,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S135,AXMSIFV,anomala,q_F,P1:MSIF,normal
+S136,VAMSCFAXD,normal,q_F,P4:MSCF,normal
+S137,VDQMSAFXXVAFAASCDMCC,anomala,q_F,P2:MSAF,normal
+S138,QMSCFCSAVIASMV,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S139,VVQMSAFVV,anomala,q_F,P2:MSAF,normal
+S140,DQDMSPFVFPASSDCXXI,anomala,q_F,P3:MSPF,anomala
+S141,QAXMSCFFMICFCXFXDP,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S142,XDMSCFAQA,normal,q_F,P4:MSCF,normal
+S143,XMSPFQQA,anomala,q_F,P3:MSPF,anomala
+S144,AMSCFAXXXMCAPA,normal,q_F,P4:MSCF,normal
+S145,QMSPFVD,anomala,q_F,P3:MSPF,anomala
+S146,AQDMSCFCCQVF,normal,q_F,P4:MSCF,normal
+S147,MSCFQAASXDAM,normal,q_F,P4:MSCF,normal
+S148,VVXMSPFSXACFMFSFPDA,anomala,q_F,P3:MSPF,anomala
+S149,AMSCFDA,normal,q_F,P4:MSCF,normal
+S150,AQAMSPDQAASSIPI,normal,q0,ninguno,normal
+S151,QVMSCFQDQP,normal,q_F,P4:MSCF,normal
+S152,DQVMSIFXQVC,anomala,q_F,P1:MSIF,normal
+S153,VVAMSCFAQMVDDSSXQ,normal,q_F,P4:MSCF,normal
+S154,MSPDFCAVQMXPMFQAAQS,normal,q0,ninguno,normal
+S155,MSIFQDSPXMFM,anomala,q_F,P1:MSIF,normal
+S156,DVQMSCF,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S157,AAMSPF,anomala,q_F,P3:MSPF,anomala
+S158,DAMSPFVADISVC,anomala,q_F,P3:MSPF,anomala
+S159,VXMSCFQA,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S160,DAQMSIFFQ,anomala,q_F,P1:MSIF,normal
+S161,QVXMSPDDV,normal,q0,ninguno,normal
+S162,QAMSCFIQCSXQVAIMF,normal,q_F,P4:MSCF,normal
+S163,XQMSCFAVSMAMADCFPAP,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S164,MSCFAQXDV,normal,q_F,P4:MSCF,normal
+S165,AMSCFV,normal,q_F,P4:MSCF,normal
+S166,XVAMSCFXADXAM,normal,q_F,P4:MSCF,normal
+S167,MSCFQXDIXSDVXFCVPXV,normal,q_F,P4:MSCF,normal
+S168,VMSAFQDDFFVQQPMQCV,anomala,q_F,P2:MSAF,normal
+S169,AVVMSCFX,normal,q_F,P4:MSCF,normal
+S170,ADVMSCFDCMIS,normal,q_F,P4:MSCF,normal
+S171,MSPFAXV,anomala,q_F,P3:MSPF,anomala
+S172,MSPFDXADQ,anomala,q_F,P3:MSPF,anomala
+S173,DVAMSPDX,normal,q_X,ninguno,normal
+S174,VAMSPFAA,anomala,q_F,P3:MSPF,anomala
+S175,DMSPDQXPDMQQF,normal,q0,ninguno,normal
+S176,DAMSCFDDMIFMPASSIMAX,normal,q_F,P4:MSCF,normal
+S177,AAVMSCFVQVCQVACVPSXI,normal,q_F,P4:MSCF,normal
+S178,MSCFSDQPSASCIXS,normal,q_F,P4:MSCF,normal
+S179,MSCFVAVFS,normal,q_F,P4:MSCF,normal
+S180,DAQMSAFQQPAAVACSCCFX,anomala,q_F,P2:MSAF,normal
+S181,MSCFAADFIM,normal,q_F,P4:MSCF,normal
+S182,DMSAFQDQA,anomala,q_F,P2:MSAF,normal
+S183,VMSAFVAXPXVQXXFMQ,anomala,q_F,P2:MSAF,normal
+S184,MSPDAACXDQ,normal,q_Q,ninguno,normal
+S185,MSCFPPFXXPIPIXPQFM,normal,q_F,P4:MSCF,normal
+S186,VMSCFA,normal,q_F,P4:MSCF,normal
+S187,DXMSAFDDDSSIQVQQXVF,anomala,q_F,P2:MSAF,normal
+S188,ADXMSPFMVAFQCDV,anomala,q_F,P3:MSPF,anomala
+S189,VMSCFQXXQIPDQXMCXSD,normal,q_F,P4:MSCF,normal
+S190,XQVMSPFA,anomala,q_F,P3:MSPF,anomala
+S191,DVMSCFPCXVFSVCD,normal,q_F,P4:MSCF,normal
+S192,XQMSCFDVQPFFMQD,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S193,VXMSIFIMFQMFCCV,anomala,q_F,P1:MSIF,normal
+S194,QQXMSAFX,anomala,q_F,P2:MSAF,normal
+S195,XXXMSCFAX,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S196,MSCFDDVPSDPMQ,normal,q_F,P4:MSCF,normal
+S197,QDMSAFXMFIFIAVC,anomala,q_F,P2:MSAF,normal
+S198,AAVMSCFXVQX,normal,q_F,P4:MSCF,normal
+S199,QDQMSIFAVQCDSAC,anomala,q_F,P1:MSIF,normal
+S200,QDMSCFQF,normal,q_F,P4:MSCF,normal
+S201,QXAMSCFAPMQ,normal,q_F,P4:MSCF,normal
+S202,VDQMSIFFQAMQISIQMFFV,anomala,q_F,P1:MSIF,normal
+S203,ADAMSCFAXQPDQVVSQ,normal,q_F,P4:MSCF,normal
+S204,MSIFQDXXVISPPP,anomala,q_F,P1:MSIF,normal
+S205,QDDMSPFQXA,anomala,q_F,P3:MSPF,anomala
+S206,MSPDQI,normal,q0,ninguno,normal
+S207,VADMSPFDXAACV,anomala,q_F,P3:MSPF,anomala
+S208,MSIFCQVQMSPM,anomala,q_F,P1:MSIF,normal
+S209,DVDMSIFVQQFFXDSADFFX,anomala,q_F,P1:MSIF,normal
+S210,MSIFPMCCS,anomala,q_F,P1:MSIF,normal
+S211,AQAMSIFADAVCCADMQ,anomala,q_F,P1:MSIF,normal
+S212,MSCFQVSIVMCM,normal,q_F,P4:MSCF,normal
+S213,AMSCFDVDQPQMPMAIMMC,normal,q_F,P4:MSCF,normal
+S214,XDMSCFVFPPQAFQAFA,normal,q_F,P4:MSCF,normal
+S215,MSIFQXISPIMADAPPVD,anomala,q_F,P1:MSIF,normal
+S216,AXMSIFAVD,anomala,q_F,P1:MSIF,normal
+S217,QMSCFA,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S218,XVVMSPDADMD,normal,q0,ninguno,normal
+S219,XMSCFAQ,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S220,QAMSIFAXMFXIQMMSMCSQ,anomala,q_F,P1:MSIF,normal
+S221,DDMSCFXXDPICAAC,normal,q_F,P4:MSCF,normal
+S222,MSCFQXA,normal,q_F,P4:MSCF,normal
+S223,DMSPFDICICPDMDA,anomala,q_F,P3:MSPF,anomala
+S224,MSCFVQAXVMAAX,normal,q_F,P4:MSCF,normal
+S225,QMSIFQVQCIVCQQMX,anomala,q_F,P1:MSIF,normal
+S226,VDMSPFVXSAVMDSP,anomala,q_F,P3:MSPF,anomala
+S227,XDMSIFDVSFVVVCCIM,anomala,q_F,P1:MSIF,normal
+S228,VMSCFPDXDQMACSQ,normal,q_F,P4:MSCF,normal
+S229,VXXMSCFX,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S230,QVVMSCFXVPDDDIX,normal,q_F,P4:MSCF,normal
+S231,DMSIFXVAFVSA,anomala,q_F,P1:MSIF,normal
+S232,MSPFQV,anomala,q_F,P3:MSPF,anomala
+S233,QAVMSCFXXAVXISX,normal,q_F,P4:MSCF,normal
+S234,AQAMSCFDDX,normal,q_F,P4:MSCF,normal
+S235,QMSPFIVPSMPCFDQQQQVI,anomala,q_F,P3:MSPF,anomala
+S236,XMSCFXFVADDXIQQM,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S237,MSPDDC,normal,q0,ninguno,normal
+S238,VQMSCFQVXCFIPVIDQVA,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S239,MSCFAVQMIVDQVSPXX,normal,q_F,P4:MSCF,normal
+S240,DVMSAFX,anomala,q_F,P2:MSAF,normal
+S241,VQVMSCFQQXDCVPQXMSPX,normal,q_F,P4:MSCF,normal
+S242,MSPFQQQVPAXCSID,anomala,q_F,P3:MSPF,anomala
+S243,DMSCFADSPSMX,normal,q_F,P4:MSCF,normal
+S244,XQMSIFQFIVSPSFAX,anomala,q_F,P1:MSIF,normal
+S245,MSCFSPF,normal,q_F,P4:MSCF,normal
+S246,XAXMSPFDVDDXFQ,anomala,q_F,P3:MSPF,anomala
+S247,DQMSAFDQ,anomala,q_F,P2:MSAF,normal
+S248,AMSPDMVMAA,normal,q0,ninguno,normal
+S249,VDMSCFDQVVMQI,normal,q_F,P4:MSCF,normal
+S250,XMSAFQ,anomala,q_F,P2:MSAF,normal
+S251,MSPFQVXFAPPSVAV,anomala,q_F,P3:MSPF,anomala
+S252,MSPFXSM,anomala,q_F,P3:MSPF,anomala
+S253,XAMSCFXXV,normal,q_F,P4:MSCF,normal
+S254,VXQMSCFXA,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S255,DDXMSIFDVQ,anomala,q_F,P1:MSIF,normal
+S256,QDMSCFXDD,normal,q_F,P4:MSCF,normal
+S257,DADMSCFVIF,normal,q_F,P4:MSCF,normal
+S258,VAVMSPF,anomala,q_F,P3:MSPF,anomala
+S259,DAMSCFQAACFIMXC,normal,q_F,P4:MSCF,normal
+S260,MSAFAQASMV,anomala,q_F,P2:MSAF,normal
+S261,AXMSCFAFCM,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S262,AMSPFQAX,anomala,q_F,P3:MSPF,anomala
+S263,AMSCFDPIMAXVXS,normal,q_F,P4:MSCF,normal
+S264,MSAFAVMCMC,anomala,q_F,P2:MSAF,normal
+S265,XMSIFXQ,anomala,q_F,P1:MSIF,normal
+S266,MSPFQQMMFQAQCMP,anomala,q_F,P3:MSPF,anomala
+S267,DMSIFQVMXDFDXM,anomala,q_F,P1:MSIF,normal
+S268,AMSCFAMCVSCCM,normal,q_F,P4:MSCF,normal
+S269,DXMSCFVV,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S270,MSCFX,normal,q_F,P4:MSCF,normal
+S271,VDDMSCFQADVADQQ,normal,q_F,P4:MSCF,normal
+S272,MSPDXQIVVC,normal,q0,ninguno,normal
+S273,XMSCFCDD,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S274,VADMSCFXVCSSFPPIQI,normal,q_F,P4:MSCF,normal
+S275,AADMSPDXCXFV,normal,q0,ninguno,normal
+S276,VXXMSCFVQIVA,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S277,DDMSPFQXA,anomala,q_F,P3:MSPF,anomala
+S278,VDMSAFIAAISIDXM,anomala,q_F,P2:MSAF,normal
+S279,AVAMSAF,anomala,q_F,P2:MSAF,normal
+S280,ADAMSCFDIVFXPDP,normal,q_F,P4:MSCF,normal
+S281,VMSAFVM,anomala,q_F,P2:MSAF,normal
+S282,VVAMSCFQX,normal,q_F,P4:MSCF,normal
+S283,AQQMSCFXAA,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S284,XDVMSPFADDVVDVIPCFI,anomala,q_F,P3:MSPF,anomala
+S285,XVQMSCFVAAQFXFC,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S286,QXMSAFQQIA,anomala,q_F,P2:MSAF,normal
+S287,VMSCFDQ,normal,q_F,P4:MSCF,normal
+S288,AXVMSPFVDDP,anomala,q_F,P3:MSPF,anomala
+S289,MSPFXIPFMPDXMS,anomala,q_F,P3:MSPF,anomala
+S290,MSPFXAXCS,anomala,q_F,P3:MSPF,anomala
+S291,ADXMSCFSCAD,normal,q_F,"P4:MSCF, P6:XMSC",normal
+S292,DMSPFQVIVIXFXMDSS,anomala,q_F,P3:MSPF,anomala
+S293,DAMSCFQXAM,normal,q_F,P4:MSCF,normal
+S294,MSPFQDIQ,anomala,q_F,P3:MSPF,anomala
+S295,QDQMSCFDIQP,normal,q_F,"P4:MSCF, P5:QMSC",normal
+S296,MSCFAADIIQVAVCI,normal,q_F,P4:MSCF,normal
+S297,QVMSCFASXDFQC,normal,q_F,P4:MSCF,normal
+S298,QQDMSCFDXA,normal,q_F,P4:MSCF,normal
+S299,VAMSPFQAQ,anomala,q_F,P3:MSPF,anomala
+S300,QMSCFAMI,normal,q_F,"P4:MSCF, P5:QMSC",normal
